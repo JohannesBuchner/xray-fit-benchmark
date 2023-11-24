@@ -33,6 +33,7 @@ Current results
 Sherpa:
 
 * 14.89 model evaluations per second
+* 21 model evaluations per second with scale1d
 
 Xspec:
 
